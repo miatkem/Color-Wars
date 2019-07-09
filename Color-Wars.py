@@ -3,9 +3,7 @@
 # An experiment with cellular automata with original rules, proving to create emergent properties that are quite unexpected
 
 import random
-import time
 import contextlib
-import datetime
 with contextlib.redirect_stdout(None):
     import pygame
     import pygame.gfxdraw
