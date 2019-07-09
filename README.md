@@ -19,7 +19,7 @@ Each increment of time the age of every existing cell is incremented by 1.
 If a cell's strength is less than its age than it dies off and becomes an empty cell.
 
 # Features
-<b>Click</b> to add a new population. It will create a 3 by 3 block with the strength equal to the average stength of the entire system allowing it a fighting chance at anytime during the run process. (It may take a few clicks to creating a lasting population though)
+<b>Click</b> to add a new population. It will create a 3 by 3 block with the strength equal to the average stength of the entire system allowing it a fighting chance at anytime during the run process. (It may take a few clicks to create a lasting population though)
 
 # Emergent Properties
 The strong few -- one thing that happens often is that one color will be forced to a very small size and then suddenly over take the other color in an impressive comeback. Because of this a fight between two colors can go back and forth for a very long time.
