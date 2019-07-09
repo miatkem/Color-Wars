@@ -1,6 +1,9 @@
 # Color-Wars
 An experiment with cellular automata with original rules, proving to create emergent properties that are quite unexpected.
 
+# The Code
+The project was done in Python and used the Pygame library for graphical purposes. The code is well documented and should be easy to follow. 
+
 # The Setting
 As most cellular automatas do, this one is acted out in a grid of cells.
 Each space holds properties that change each time increment takes place.
